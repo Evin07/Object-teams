@@ -1,3 +1,5 @@
+// Ethan was here!
+
 public interface Card{
   // Gets a random card from the would-be complete deck of cards
   public Card getRandom();
@@ -18,3 +20,4 @@ public interface Card{
   public String[] getSuits();
   
 }
+
