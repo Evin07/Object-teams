@@ -1,4 +1,6 @@
-// Ethan was here!
+
+//I, Sebastian Thorstensen, was here
+// and here too 
 
 public interface Card{
   // Gets a random card from the would-be complete deck of cards
